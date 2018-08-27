@@ -112,13 +112,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
-            <sum>true</sum>
+            <sum>false</sum>
             <sys_created_by>chuck.tomasi</sys_created_by>
             <sys_created_on>2018-08-27 14:51:13</sys_created_on>
             <sys_id>1e9fb4330f4c2f007500cbdce1050ef4</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>chuck.tomasi</sys_updated_by>
-            <sys_updated_on>2018-08-27 14:51:26</sys_updated_on>
+            <sys_updated_on>2018-08-27 14:56:00</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>

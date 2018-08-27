@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b3fdf0ff0f0c2f007500cbdce1050e9b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_66238_tn56qt_package">
+    <x_66238_tn56qt_package action="INSERT_OR_UPDATE">
+        <description>Test equipment</description>
+        <destination display_value="2600 Camino Del Rio North, San Diego,CA">f48b22cf0a0a0ba700883a8a2e0ded7e</destination>
+        <height>20</height>
+        <length>10</length>
+        <number>PKG0001002</number>
+        <recipient display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</recipient>
+        <sender display_value="Alene Rabeck">be82abf03710200044e0bfc8bcbe5d1c</sender>
+        <state>ready for pickup</state>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-08-27 14:45:10</sys_created_on>
+        <sys_id>b3fdf0ff0f0c2f007500cbdce1050e9b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-08-27 14:49:25</sys_updated_on>
+        <weight>0.75</weight>
+        <width>10</width>
+    </x_66238_tn56qt_package>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-08-27 14:56:45</sys_created_on>
+        <sys_id>53d045730f4c2f007500cbdce1050e38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PKG0001002</sys_name>
+        <sys_package display_value="TechNow 56 QuickTip" source="x_66238_tn56qt">3e2c307f0f0c2f007500cbdce1050eb3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechNow 56 QuickTip">3e2c307f0f0c2f007500cbdce1050eb3</sys_scope>
+        <sys_update_name>sys_metadata_link_53d045730f4c2f007500cbdce1050e38</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-08-27 14:56:45</sys_updated_on>
+        <tablename>x_66238_tn56qt_package</tablename>
+    </sys_metadata_link>
+</record_update>
