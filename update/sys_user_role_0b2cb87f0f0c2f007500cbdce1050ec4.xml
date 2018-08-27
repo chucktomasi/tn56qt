@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_66238_tn56qt.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-08-27 14:36:15</sys_created_on>
+        <sys_id>0b2cb87f0f0c2f007500cbdce1050ec4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_66238_tn56qt.user</sys_name>
+        <sys_package display_value="TechNow 56 QuickTip" source="x_66238_tn56qt">3e2c307f0f0c2f007500cbdce1050eb3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechNow 56 QuickTip">3e2c307f0f0c2f007500cbdce1050eb3</sys_scope>
+        <sys_update_name>sys_user_role_0b2cb87f0f0c2f007500cbdce1050ec4</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-08-27 14:36:15</sys_updated_on>
+    </sys_user_role>
+</record_update>

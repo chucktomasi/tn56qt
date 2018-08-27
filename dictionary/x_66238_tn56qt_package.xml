@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Package" max_length="40" name="x_66238_tn56qt_package" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Destination" mandatory="true" max_length="32" name="destination" reference="cmn_location" type="reference"/>
+        <element label="Height" max_length="40" name="height" type="integer"/>
+        <element label="Length" max_length="40" name="length" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Recipient" mandatory="true" max_length="32" name="recipient" reference="sys_user" type="reference"/>
+        <element label="Sender" mandatory="true" max_length="32" name="sender" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="ready for pickup" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Ready for pickup" sequence="0" value="ready for pickup"/>
+                <element inactive_on_update="false" label="En route" sequence="1" value="en route"/>
+                <element inactive_on_update="false" label="Delivered" sequence="2" value="delivered"/>
+            </choice>
+        </element>
+        <element label="Weight" max_length="40" name="weight" type="float"/>
+        <element label="Width" max_length="40" name="width" type="integer"/>
+        <index name="index">
+            <element name="sender"/>
+        </index>
+        <index name="index2">
+            <element name="destination"/>
+        </index>
+        <index name="index3">
+            <element name="recipient"/>
+        </index>
+    </element>
+</database>
