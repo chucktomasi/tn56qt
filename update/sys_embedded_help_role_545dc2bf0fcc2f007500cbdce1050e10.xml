@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-08-27 20:30:47</sys_created_on>
+        <sys_id>545dc2bf0fcc2f007500cbdce1050e10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d45dc2bf0fcc2f007500cbdce1050e0e</sys_name>
+        <sys_package display_value="TechNow 56 QuickTip" source="x_66238_tn56qt">3e2c307f0f0c2f007500cbdce1050eb3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechNow 56 QuickTip">3e2c307f0f0c2f007500cbdce1050eb3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_545dc2bf0fcc2f007500cbdce1050e10</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-08-27 20:30:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
